@@ -1,7 +1,8 @@
-#Marija's Mass Lysteria (derived from Udacity's Movie Trailer Website project)
+#Marija's Mass Lysteria
+###(derived from Udacity's Movie Trailer Website project)
 
 This web application is a modification of Udacity's Movie Trailer Website project for the Full Stack Programming Nanodegree.
-The initial version displays a selection of Marija's favorite movies with release dates, descriptions, and movie posters. 
+The initial version displays a selection of Marija's favorite movies with release dates, descriptions, and movie posters.
 Clicking the movie posters brings up a linked YouTube video of the movie's trailer. Future expansions will include other lists, accessible by the drop-down menu at the right of the header.
 
 ##Modules & Libraries
