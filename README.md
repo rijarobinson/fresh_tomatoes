@@ -5,9 +5,9 @@ The initial version displays a selection of Marija's favorite movies with releas
 Clicking the movie posters brings up a linked YouTube video of the movie's trailer. Future expansions will include other lists, accessible by the drop-down menu at the right of the header.
 
 ##Modules & Libraries
-*media.py
-*entertainment_center.py
-*fresh_tomatoes.py
+* media.py
+* entertainment_center.py
+* fresh_tomatoes.py
 
 
 **media.py** contains the python code for the class "Movies". Imports webbrowser from standard library.
